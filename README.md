@@ -19,3 +19,9 @@
  PostgreSQL
  PrismaORM
 ```
+
+## APIs
+```
+ CoinGecko API
+ StockData API
+```
